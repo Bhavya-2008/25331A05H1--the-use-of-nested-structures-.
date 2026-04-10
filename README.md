@@ -14,7 +14,7 @@ int main() {
 struct Student s1; 
 // Assign values 
 s1.roll_no = 101; 
-strcpy(s1.name, "Madhu"); 
+strcpy(s1.name, "Bhavya"); 
 strcpy(s1.addr.city, "VZM"); 
 s1.addr.pincode = 535006; 
 // Access members 
